@@ -16,5 +16,5 @@ full web html version of the reports in [soremo.library.iit.edu](http://soremo.l
 * [Editorial](https://sondzus.github.io/SoReMoReports/SoReMo-Volume2-no1-Editorial.html) 
 * [Simon](https://sondzus.github.io/SoReMoReports/SoReMo-TechReport-vol2no1fa2021-SIMON.html) 
 * [Gerew](https://sondzus.github.io/SoReMoReports/SoReMo-TechReport-vol2no1fa2021-GEREW.html) 
-* [Kralis](https://sondzus.github.io/SoReMoReports/SoReMo-TechReport-vol2no1sfa2021-KRALIS.html) 
+* [Kralis](https://sondzus.github.io/SoReMoReports/SoReMo-TechReport-vol2no1fa2021-KRALIS.html) 
 
