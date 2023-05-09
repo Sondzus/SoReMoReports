@@ -24,3 +24,10 @@ full web html version of the reports in [soremo.library.iit.edu](http://soremo.l
 * [Editorial](https://sondzus.github.io/SoReMoReports/SoReMo-Volume3-no1-Editorial.html) 
 * [Simkin](https://sondzus.github.io/SoReMoReports/SoReMo-TechReport-vol3no1sp2022-Simkin.html) 
 * [Meyer and Eshraghi](https://sondzus.github.io/SoReMoReports/SoReMo-TechReport-vol3no1sp2022-Meyer-Eshraghi.html)
+
+## Issue no. 2
+
+* [Editorial](https://sondzus.github.io/SoReMoReports/SoReMo-Volume3-no2-Editorial.html)
+* Jack Harrison Mohr, An Exploration and Analysis of the Problem of Below Minimum Wage Pay for Immigrant Students at IIT   
+* Mary Morgan and Tomomi Tanigawa, Understanding the Motivations of Volunteers Working for Equity in Education   
+* Oluwaseun Ajayi, The Forecasting and Case Study Modeling of COVID-19 in Chicago: A Data-driven Approach. 
