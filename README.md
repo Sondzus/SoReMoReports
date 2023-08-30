@@ -28,6 +28,15 @@ full web html version of the reports in [soremo.library.iit.edu](http://soremo.l
 ## Issue no. 2
 
 * [Editorial](https://sondzus.github.io/SoReMoReports/SoReMo-Volume3-no2-Editorial.html)
-* Jack Harrison Mohr, An Exploration and Analysis of the Problem of Below Minimum Wage Pay for Immigrant Students at IIT   
+* [Mohr](https://sondzus.github.io/SoReMoReports/SoReMo-TechReport-vol3no2fa2022-MOHR): Jack Harrison Mohr, An Exploration and Analysis of the Problem of Below Minimum Wage Pay for Immigrant Students at IIT   
 * Mary Morgan and Tomomi Tanigawa, Understanding the Motivations of Volunteers Working for Equity in Education   
 * [Ajayi](https://sondzus.github.io/SoReMoReports/SoReMo-TechReport-vol3no2fa2022-AJAYI.html): Oluwaseun Ajayi, The Forecasting and Case Study Modeling of COVID-19 in Chicago: A Data-driven Approach. 
+
+
+# Volume 4
+## Issue no. 1
+
+* [Editorial](https://sondzus.github.io/SoReMoReports/SoReMo-Volume4-no1-Editorial.html) 
+* [Petrone](https://sondzus.github.io/SoReMoReports/SoReMo-TechReport-vol4no1sp2023-Petrone.html): Angela Petrone, Analysis of the impact of search engines and social media on decision-making
+* [Brown and Exline](https://sondzus.github.io/SoReMoReports/SoReMo-TechReport-vol4no1sp2023-BrownExline.html): Deana Exline and Natalie Brown, Negative Health Impacts of Environmental Inequality
+* Md Mahmudur Rahman and Caitlin Louise Brown, An Exploration into the Necessary Transparency Needed in the Recycling Culture 
