@@ -8,7 +8,7 @@ full web html version of the reports in [soremo.library.iit.edu](http://soremo.l
 
 * [Editorial](https://sondzus.github.io/SoReMoReports/SoReMo-Volume4-no2-Editorial.html) 
 * [Hanifah](https://sondzus.github.io/SoReMoReports/SoReMo-TechReport-vol4no2fa2023-Hanifah.html): Hana Hanifah, Mobile Game Accessibility: A User-Centered Approach for Gamers with Disabilities
-* Alaittin Kirtisoglu, Building equity-focused encounter network in Chicago
+* [Kirtisoglu](https://sondzus.github.io/SoReMoReports/SoReMo-TechReport-vol4no2fa2023-Kirtisoglu.pdf): Alaittin Kirtisoglu, Building equity-focused encounter network in Chicago
 * [Gad et al](https://sondzus.github.io/SoReMoReports/SoReMo-TechReport-vol4no2fa2023-Gad-Khan-Popovic-Sada.html): Barien Gad, Alisha Khan, Aleksander Popovic, and Mohammad Firas Sada,  Spaces: Reviving, Supporting, and Creating Sustainable Social Hubs
 
 ## Issue no. 1
