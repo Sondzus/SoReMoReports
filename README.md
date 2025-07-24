@@ -16,7 +16,7 @@ full web html version of the reports in [soremo.library.iit.edu](http://soremo.l
 * [Editorial](https://sondzus.github.io/SoReMoReports/SoReMo-Volume4-no1-Editorial.html) 
 * [Petrone](https://sondzus.github.io/SoReMoReports/SoReMo-TechReport-vol4no1sp2023-Petrone.html): Angela Petrone, Analysis of the impact of search engines and social media on decision-making
 * [Brown and Exline](https://sondzus.github.io/SoReMoReports/SoReMo-TechReport-vol4no1sp2023-BrownExline.html): Deana Exline and Natalie Brown, Negative Health Impacts of Environmental Inequality
-* Md Mahmudur Rahman and Caitlin Louise Brown, An Exploration into the Necessary Transparency Needed in the Recycling Culture 
+* [Rahman and Brown](https://sondzus.github.io/SoReMoReports/SoReMo-TechReport-vol4no1fa2023-Rahman-Brown.html): Md Mahmudur Rahman and Caitlin Louise Brown, An Exploration into the Necessary Transparency Needed in the Recycling Culture 
 
 ## Issue no. 2 (in preparation)
 
