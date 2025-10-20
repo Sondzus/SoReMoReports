@@ -2,6 +2,13 @@
 full web html version of the reports in [soremo.library.iit.edu](http://soremo.library.iit.edu/index.php/Soremo) . 
 
 
+# Volume 5
+
+## Issue no. 1
+
+* [Oberemok](https://sondzus.github.io/SoReMoReports/SoReMo-TechReport-vol4no2fa2023-Hanifah.html): Marina Oberemok, Charting STEM Success: Data-Driven Strategies to Empower Female Students in Chicago
+* Two more projects in production. 
+
 # Volume 4
 
 ## Issue no. 2
