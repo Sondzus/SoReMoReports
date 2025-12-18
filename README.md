@@ -8,7 +8,7 @@ full web html version of the reports in [soremo.library.iit.edu](http://soremo.l
 
 * [Oberemok](https://sondzus.github.io/SoReMoReports/SoReMo-TechReport-vol5no1sp2025-Oberemok.html): Marina Oberemok, Charting STEM Success: Data-Driven Strategies to Empower Female Students in Chicago
 * [Gimenez](https://sondzus.github.io/SoReMoReports/SoReMo-TechReport-vol5no1sp2025-Gimenez.html): Raquel Giménez Pascual, Flood Evacuation and Resource Allocation Modeling Using Agent-Based Approaches and Advanced Pathfinding Algorithms
-* One more project in production. 
+* [Kazemzadeh](https://sondzus.github.io/SoReMoReports/SoReMo-TechReport-vol5no1sp2025-Kazemzadeh.html): Sanaz Kazemzadehazad, IIT Public Safety Off-Campus Ride Service Optimization
 
 # Volume 4
 
