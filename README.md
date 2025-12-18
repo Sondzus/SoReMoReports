@@ -6,9 +6,9 @@ full web html version of the reports in [soremo.library.iit.edu](http://soremo.l
 
 ## Issue no. 1
 
-* [Oberemok](https://sondzus.github.io/SoReMoReports/SoReMo-TechReport-vol5no1sp2025-Oberemok.html): Marina Oberemok, Charting STEM Success: Data-Driven Strategies to Empower Female Students in Chicago
 * [Gimenez](https://sondzus.github.io/SoReMoReports/SoReMo-TechReport-vol5no1sp2025-Gimenez.html): Raquel Giménez Pascual, Flood Evacuation and Resource Allocation Modeling Using Agent-Based Approaches and Advanced Pathfinding Algorithms
 * [Kazemzadeh](https://sondzus.github.io/SoReMoReports/SoReMo-TechReport-vol5no1sp2025-Kazemzadeh.html): Sanaz Kazemzadehazad, IIT Public Safety Off-Campus Ride Service Optimization
+* [Oberemok](https://sondzus.github.io/SoReMoReports/SoReMo-TechReport-vol5no1sp2025-Oberemok.html): Marina Oberemok, Charting STEM Success: Data-Driven Strategies to Empower Female Students in Chicago
 
 # Volume 4
 
@@ -25,12 +25,6 @@ full web html version of the reports in [soremo.library.iit.edu](http://soremo.l
 * [Petrone](https://sondzus.github.io/SoReMoReports/SoReMo-TechReport-vol4no1sp2023-Petrone.html): Angela Petrone, Analysis of the impact of search engines and social media on decision-making
 * [Brown and Exline](https://sondzus.github.io/SoReMoReports/SoReMo-TechReport-vol4no1sp2023-BrownExline.html): Deana Exline and Natalie Brown, Negative Health Impacts of Environmental Inequality
 * [Rahman and Brown](https://sondzus.github.io/SoReMoReports/SoReMo-TechReport-vol4no1fa2023-Rahman-Brown.html): Md Mahmudur Rahman and Caitlin Louise Brown, An Exploration into the Necessary Transparency Needed in the Recycling Culture 
-
-## Issue no. 2 (in preparation)
-
-* Hana Hanifah,   Mobile Game Accessibility: A User-Centered Approach for Disabled Gamers
-* Alaittin Kirtisoglu, Building equity-focused encounter network in Chicago
-* Barien Gad, Alisha Khan, and Aleksander Popovic: Spaces: Reviving, Supporting, and Creating Sustainable Social Hubs
 
 
 # Volume 3
