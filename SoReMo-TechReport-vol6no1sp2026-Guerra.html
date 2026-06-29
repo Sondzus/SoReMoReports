@@ -884,6 +884,10 @@ padding: 10px;
 footer {
 padding-top: -32px;
 }
+
+a.footnote-back {
+display: none;
+}
 </style>
     
     <!-- tabsets -->
@@ -1184,9 +1188,9 @@ Supreme Court reaffirmed its validity <span class="citation">(<a href="#ref-alle
 statistical questions especially timely. Starting in 2025, a coordinated
 wave of mid-decade redistricting efforts has emerged. The Congressional
 Research Service has documented that lawmakers in California, Missouri,
-North Carolina, Ohio, Texas, and Utah enacted ahead of the 2026 midterm
-elections, with additional states actively considering following in
-their footsteps <span class="citation">(<a href="#ref-EckmanWhitaker2025MidDecade">Eckman and Whitaker
+North Carolina, Ohio, Texas, and Utah enacted new congressional maps
+ahead of the 2026 midterm elections, with additional states actively
+considering following in their footsteps <span class="citation">(<a href="#ref-EckmanWhitaker2025MidDecade">Eckman and Whitaker
 2025</a>)</span>. California voters approved Proposition 50 in November
 2025, establishing new congressional districts for the 2026, 2028, and
 2030 elections; federal courts declined to block those maps before the
@@ -1359,10 +1363,10 @@ inference techniques with missing data give way to uncertainty,
 ecological inference produces “imperfect” and “uncertain” answers <span class="citation">(<a href="#ref-BeckerDuchinGoldHirsch2021">Becker et
 al. 2021</a>)</span>. Hence, it is essential to estimate the error
 produced by ecological inference techniques and observe how it compounds
-or cancels out in high-level conclusions <span class="citation">(<a href="#ref-BeckerDuchinGoldHirsch2021">Becker et al.
-2021</a>)</span>.So, in addition to identifying the minority-preferred
-candidates, one must specify the confidence measures that the
-identifications are correct <span class="citation">(<a href="#ref-BeckerDuchinGoldHirsch2021">Becker et al. 2021</a>)</span>.
+or cancels out in high-level conclusions <span class="citation">(<a href="#ref-BeckerDuchinGoldHirsch2021">Becker et al. 2021</a>)</span>.
+So, in addition to identifying the minority-preferred candidates, one
+must specify the confidence measures that the identifications are
+correct <span class="citation">(<a href="#ref-BeckerDuchinGoldHirsch2021">Becker et al. 2021</a>)</span>.
 To check for minority control of a district and identify preferred
 candidates for newly proposed districts, the statewide and
 precinct-level vote estimates by race should be leveraged <span class="citation">(<a href="#ref-BeckerDuchinGoldHirsch2021">Becker et
@@ -1481,7 +1485,7 @@ to spanning trees. The cycle walk introduced by DeFord et al. <span class="citat
 2025</a>)</span> is a faster successor to MEW: it avoids the redundancy
 that arises when distinct spanning trees in MEW induce the same
 partition, walking instead through cycles directly. Most recently, the
-balanced up-down (BUD) walk introduced by Atikaya et al. <span class="citation">(<a href="#ref-akitaya2026balancedupdownwalk">Akitaya
+balanced up-down (BUD) walk introduced by Akitaya et al. <span class="citation">(<a href="#ref-akitaya2026balancedupdownwalk">Akitaya
 et al. 2026</a>)</span> improves on the Cycle Walk and is the most
 promising candidate to date for a mixing-time proof, although such a
 proof has not yet been established.</p>
@@ -1540,7 +1544,7 @@ This approach combines EI to estimate each racial group’s candidate
 preferences, recency-weighted aggregation across elections to smooth
 idiosyncratic single-election noise, and confidence-weighted aggregation
 that downweights elections with diffuse rather than polarized
-preferences <span class="citation">(<a href="#ref-eckerDuchinGoldHirsch2021"><strong>eckerDuchinGoldHirsch2021?</strong></a>)</span>.
+preferences <span class="citation">(<a href="#ref-BeckerDuchinGoldHirsch2021">Becker et al. 2021</a>)</span>.
 The output is a district-level “effectiveness score” <span class="math inline">\(s^g_d \in [0,1]\)</span> which measures the
 weighted share of recent elections in which racial group <span class="math inline">\(g\)</span>’s preferred candidate won <span class="citation">(<a href="#ref-BeckerDuchinGoldHirsch2021">Becker et
 al. 2021</a>)</span>.</p>
@@ -1607,7 +1611,7 @@ not require rewriting the others.</p>
 <p>The contribution of this paper is not a new data source, EI model, or
 redistricting sampler in isolation, but a framework that connects these
 components into a coherent inferential pipeline. The components surveyed
-in Sectioin 2 - redistricting data preparation, <span class="math inline">\(R \times C\)</span> ecological inference, and
+in Section 2 - redistricting data preparation, <span class="math inline">\(R \times C\)</span> ecological inference, and
 ensemble generation - exist as separately developed and well-documented
 tools. Prior work has combined some of these components for Section 2
 VRA analysis, but the literature lacks a single end-to-end pipeline that
@@ -1705,9 +1709,9 @@ C\)</span> ecological inference,</li>
 <p>Steps 1 and 2 propagate posterior uncertainty forward in a compressed
 form. Steps 3 and 4 anchor the resulting probabilities to observed
 electoral outcomes on the enacted plan.</p>
-<div id="multinomial-dirichlet-bayesian-r-times-c-r-x-c-ecological-inference" class="section level3">
+<div id="multinomial-dirichlet-bayesian-r-times-c-ecological-inference" class="section level3">
 <h3>4.2.1 Multinomial-Dirichlet Bayesian <span class="math inline">\(R
-\times C = R x C\)</span> Ecological Inference</h3>
+\times C\)</span> Ecological Inference</h3>
 <p>Let precincts be indexed by <span class="math inline">\(p = 1,
 \ldots, n\)</span>, racial groups by <span class="math inline">\(r = 1,
 \ldots, R\)</span>, and candidates by <span class="math inline">\(c = 1,
@@ -2170,7 +2174,6 @@ Ethnicity in a Special Tabulation from the ACS 5-Year Estimates, -
 <strong>[D5]</strong> Texas VTDs Shapefile, and - <strong>[D6]</strong>
 State VTDs Election Data.</p>
 <p>Table 2 summarizes the resulting statewide demographic shares.</p>
-<p>Table 2 summarizes the resulting statewide demographic shares.</p>
 <table>
 <colgroup>
 <col width="16%" />
@@ -2231,7 +2234,7 @@ citizen voting-age population (CVAP). Total population and VAP data are
 taken from the 2020 decennial census, while CVAP data come from the
 American Community Survey (ACS) five-year rolling average ending in
 2024.</em></p>
-<p>As shown in Table~ 3, the election inventory comprises six 2024
+<p>As shown in Table 3, the election inventory comprises six 2024
 statewide contests.</p>
 <p>Although Texas congressional districts are the ones being assessed
 for Section 2 VRA violations in this case study, the analysis is based
