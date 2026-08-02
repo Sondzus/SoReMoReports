@@ -1,6 +1,15 @@
 # SoReMoReports
 full web html version of the reports in [soremo.library.iit.edu](http://soremo.library.iit.edu/index.php/Soremo) . 
 
+# Volume 6
+
+## Issue no. 1
+
+* [Editorial](https://sondzus.github.io/SoReMoReports/SoReMo-Volume6-no1-Editorial.html)
+* [Balea and Rebelatto](https://sondzus.github.io/SoReMoReports/SoReMo-TechReport-vol6no1sp2026-Rebelatto.html): Paul Balea and Tomas Rebelatto, Beyond Canopy Coverage: Species Composition, Urban Forest Equity, and Neighborhood Health in Chicago
+* [Guerra](https://sondzus.github.io/SoReMoReports/SoReMo-TechReport-vol6no1sp2026-Guerra.html): Alicia Guerra, A Modular Computational Framework for Section 2 Voting Rights Act Analysis
+* [Waghray et al](https://sondzus.github.io/SoReMoReports/SoReMo-TechReport-vol6no1sp2026-Waghray.html): Sanjana Waghray, Ananya Bhooplam Praveen, and Sharanya Mishra, HerWay: A Data-Driven System for Chicago Neighborhood Awareness
+* [Washington and Vemuri](https://sondzus.github.io/SoReMoReports/SoReMo-TechReport-vol6no1sp2026-Washington.html): Taylor Washington and Laasya Priya Vemuri, The People v. Hasty AI: Protecting the Right to be Annoyed
 
 # Volume 5
 
